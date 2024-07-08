@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">Obtenga soporte para FSx for ONTAP</block>
+  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">NetApp ofrece compatibilidad con Workload Factory y sus servicios de cloud de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
+  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">Para obtener soporte técnico relacionado con FSx para ONTAP, su infraestructura o cualquier solución que utilice el servicio, consulte la sección «Obtener ayuda» en la documentación de Workload Factory para ese producto.</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX para ONTAP</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">Para recibir soporte técnico específico para Workload Factory y sus soluciones y servicios de almacenamiento, utilice las opciones de soporte descritas a continuación.</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilice opciones de soporte automático</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Estas opciones están disponibles de forma gratuita, las 24 horas del día, los 7 días de la semana:</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">Documentación</block>
+  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">La documentación de Workload Factory que está viendo en ese momento.</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">Base de conocimientos</block>
+  <block id="436f63b446dba5a418c698d49bd39718" category="list-text"><block ref="436f63b446dba5a418c698d49bd39718" category="inline-link-rx"></block></block>
+  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">Busque en la base de conocimientos de Workload Factory para encontrar artículos útiles para solucionar problemas.</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">Comunidades</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">Únase a la comunidad de Workload Factory para seguir las discusiones en curso o crear otras nuevas.</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">Cree un caso con el soporte de NetApp</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">Además de las opciones de autosoporte anteriores, puede trabajar con un especialista de soporte de NetApp para resolver cualquier problema después de activar el soporte de.</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">Antes de empezar</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">Aprenda a registrarse para obtener soporte</block>
+  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">Para utilizar la capacidad de *Crear un caso*, primero debe registrarse para recibir soporte. Asocie sus credenciales del sitio de soporte de NetApp a su inicio de sesión de fábrica de cargas de trabajo. <block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>.</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">Pasos</block>
+  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">En la parte superior derecha de la consola Workload Factory, selecciona *Ayuda &gt; Soporte*.</block>
+  <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">Al seleccionar esta opción, se abre la consola de BlueXP una nueva pestaña del navegador y se carga la consola de soporte.</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">En la página *Recursos*, elija una de las opciones disponibles en Soporte técnico:</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">Selecciona *Llámanos* si quieres hablar con alguien por teléfono. Se le dirigirá a una página de netapp.com que enumera los números de teléfono a los que puede llamar.</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">Selecciona *Crear un caso* para abrir un ticket con un especialista en Soporte NetApp:</block>
+  <block id="d7d0da18fbb8f8f85c1364883fbdf4c7" category="list-text">*Servicio*: Selecciona *Fábrica de carga de trabajo*.</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*Prioridad de caso*: Elija la prioridad para el caso, que puede ser Baja, Media, Alta o crítica.</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">Para obtener más información sobre estas prioridades, pase el ratón sobre el icono de información situado junto al nombre del campo.</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Descripción del problema*: Proporcione una descripción detallada del problema, incluidos los mensajes de error aplicables o los pasos de solución de problemas que haya realizado.</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Direcciones de correo electrónico adicionales*: Introduzca direcciones de correo electrónico adicionales si desea que alguien más conozca este problema.</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Captura de pantalla del formulario Crear un caso que le permite crear un caso con el soporte de NetApp.</block>
+  <block id="b0c6c3ee60a29925d3f09cd609b79483" category="paragraph"><block ref="b0c6c3ee60a29925d3f09cd609b79483" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Después de terminar</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Aparecerá una ventana emergente con el número de caso de soporte. Un especialista de soporte de NetApp revisará su caso y le pondrá en contacto con usted próximamente.</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">Para obtener un historial de sus casos de soporte, puede seleccionar *Ajustes &gt; Línea de tiempo* y buscar acciones denominadas “Crear caso de soporte”. Un botón situado en el extremo derecho le permite ampliar la acción para ver los detalles.</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">Es posible que se encuentre el siguiente mensaje de error al intentar crear un caso:</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"No está autorizado a crear un caso en el servicio seleccionado"</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">Este error podría significar que la cuenta NSS y la compañía de registro con la que está asociada no es la misma compañía de registro para el número de serie de la cuenta de BlueXP (es decir, 960xxxx) o el número de serie del entorno de trabajo. Puede solicitar ayuda utilizando una de las siguientes opciones:</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">Usar el chat en el producto</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">Envíe un caso no técnico a<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">Gestione sus casos de soporte (vista previa)</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">Puede ver y gestionar los casos de soporte activos y resueltos directamente desde BlueXP. Es posible gestionar los casos asociados con su cuenta de NSS y con su empresa.</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">La gestión de casos está disponible como vista previa. Tenemos pensado perfeccionar esta experiencia y añadir mejoras en próximos lanzamientos. Envíenos sus comentarios mediante el chat en el producto.</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">Tenga en cuenta lo siguiente:</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">La consola de gestión de casos en la parte superior de la página ofrece dos vistas:</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">La vista de la izquierda muestra el total de casos abiertos en los últimos 3 meses por la cuenta de usuario NSS que ha proporcionado.</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">La vista de la derecha muestra el total de casos abiertos en los últimos 3 meses a nivel de su compañía en función de su cuenta NSS de usuario.</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">Los resultados de la tabla reflejan los casos relacionados con la vista seleccionada.</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">Puede agregar o quitar columnas de interés y filtrar el contenido de columnas como prioridad y estado. Otras columnas proporcionan funciones de clasificación.</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">Consulte los pasos a continuación para obtener más información.</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">En el nivel por caso, ofrecemos la posibilidad de actualizar las notas de un caso o cerrar un caso que no esté ya en estado cerrado o pendiente de cierre.</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">Selecciona *Gestión de casos* y, si se te solicita, agrega tu cuenta de NSS a BlueXP.</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">La página *Administración de casos* muestra casos abiertos relacionados con la cuenta NSS asociada con su cuenta de usuario de BlueXP. Esta es la misma cuenta NSS que aparece en la parte superior de la página *NSS Management*.</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">Si lo desea, puede modificar la información que se muestra en la tabla:</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">En *Casos de la organización*, selecciona *Ver* para ver todos los casos asociados a tu empresa.</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifique el rango de fechas eligiendo un rango de fechas exacto o eligiendo un marco de tiempo diferente.</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Captura de pantalla de la opción situada encima de la tabla en la página de gestión de casos que permite elegir un intervalo de fechas exacto o los últimos 7 días, 30 días o 3 meses.</block>
+  <block id="4f7062c5c309a833cf46e4a1a5a5d366" category="paragraph"><block ref="4f7062c5c309a833cf46e4a1a5a5d366" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtre el contenido de las columnas.</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Captura de pantalla de la opción de filtro de la columna Estado que permite filtrar casos que coinciden con un estado específico, como activo o cerrado.</block>
+  <block id="8f624dee500d9670a27c4404084a7a62" category="paragraph"><block ref="8f624dee500d9670a27c4404084a7a62" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">El icono más que se muestra en la tabla</block>
+  <block id="002f1c0a8cf4a68b888010ddef3a7f7e" category="list-text">Para cambiar las columnas que aparecen en la tabla, seleccione <block ref="e55ec8dc42ae68d9326c51261c8a5f4f" category="inline-image-macro-rx" type="image"></block> y, a continuación, elija las columnas que desea mostrar.</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Captura de pantalla que muestra las columnas que puede mostrar en la tabla.</block>
+  <block id="72c5c65442a2c44e7f2546b8b4c957df" category="paragraph"><block ref="72c5c65442a2c44e7f2546b8b4c957df" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Icono con tres puntos que aparece en la última columna de la tabla</block>
+  <block id="000a1376035909240f559b8ab724030c" category="list-text">Para gestionar un caso existente, <block ref="54181d1b918b28e5f92545f8b3b4a30c" category="inline-image-macro-rx" type="image"></block> seleccione y seleccione una de las opciones disponibles:</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Ver caso*: Ver todos los detalles sobre un caso específico.</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">*Cerrar caso*: Proporciona detalles sobre por qué estás cerrando el caso y selecciona *Cerrar caso*.</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Captura de pantalla que muestra las acciones que puede realizar después de seleccionar el menú de la última columna de la tabla.</block>
+  <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="22e5a7336ebe77138f0282cedcb069ab" category="inline-link">Fábrica de carga de trabajo</block>
+  <block id="7ffcbeca3b450b8d05f9cf0eedb617f8" category="list-text"><block ref="7ffcbeca3b450b8d05f9cf0eedb617f8" category="inline-link-rx"></block></block>
+  <block id="887f800d53dc2cd5a7894464a6f60a6b" category="inline-link">Workloads Factory para bases de datos</block>
+  <block id="7e505d4c691d86e5bd415f9ccb849966" category="list-text"><block ref="7e505d4c691d86e5bd415f9ccb849966" category="inline-link-rx"></block></block>
+  <block id="9591e2d54c998ae1c9d48fd5be7762e9" category="inline-link">Workload Factory para GenAI</block>
+  <block id="f38c7416013fc239c3dd3288d40a40c0" category="list-text"><block ref="f38c7416013fc239c3dd3288d40a40c0" category="inline-link-rx"></block></block>
+  <block id="404a5efb62a3a3f22b02593091042608" category="inline-link">Workload Factory para VMware</block>
+  <block id="9a211183d3fa82368d76fdbab5abdeda" category="list-text"><block ref="9a211183d3fa82368d76fdbab5abdeda" category="inline-link-rx"></block></block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">Información general del registro de soporte</block>
+  <block id="996ad73a480311d4f86d6946935389d2" category="paragraph">Se requiere el registro de soporte para recibir soporte técnico específico para Workload Factory y sus soluciones y servicios de almacenamiento. Tienes que registrarte para recibir soporte de la consola BlueXP, que es una consola web independiente de Workload Factory.</block>
+  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">Al registrarse para recibir soporte, no se habilita el soporte de NetApp para un servicio de archivos de proveedor de cloud. Para obtener soporte técnico relacionado con un servicio de archivos de un proveedor de cloud, su infraestructura o cualquier solución que utilice el servicio, consulte «Obtener ayuda» en la documentación de Workload Factory para ese producto.</block>
+  <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">Registrar la suscripción de soporte de tu ID de cuenta (tu número de serie 960xxxxxxxxx de 20 dígitos, ubicado en la página de recursos de soporte de BlueXP) sirve como tu ID de suscripción de soporte único. Debe registrarse cada suscripción de asistencia técnica a nivel de cuenta de BlueXP.</block>
+  <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">El registro permite funcionalidades como la apertura de tickets de soporte y la generación automática de casos. Para completar el registro, añade cuentas del sitio de soporte de NetApp (NSS) a BlueXP, como se describe a continuación.</block>
+  <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">Registre su cuenta de soporte de NetApp</block>
+  <block id="2d6573b6ae4c51dc24e58109473f2490" category="paragraph">Para registrarte para obtener soporte y activar el soporte, un usuario en tu cuenta debe asociar una cuenta en el sitio de soporte de NetApp a su inicio de sesión en BlueXP. La forma de registrarse para recibir soporte de NetApp depende de si ya tiene una cuenta del sitio de soporte de NetApp (NSS).</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">Cliente existente con una cuenta de NSS</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">Si es cliente de NetApp con una cuenta de NSS, solo tiene que registrarse para recibir soporte a través de BlueXP.</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">En la parte superior derecha de la consola de BlueXP, seleccione el icono Configuración y seleccione *credenciales*.</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">Seleccione *Credenciales de usuario*.</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">Seleccione *Agregar credenciales NSS* y siga el aviso de autenticación del sitio de soporte de NetApp (NSS).</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">Para confirmar que el proceso de registro se ha realizado correctamente, seleccione el icono Ayuda y seleccione *Soporte*.</block>
+  <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">La página *Recursos* debe mostrar que su cuenta está registrada para soporte.</block>
+  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">Una captura de pantalla que muestra un número de serie de cuenta y una casilla de verificación verde y el texto registrado para soporte.</block>
+  <block id="fa7897454f637026faa3e00ccbfec239" category="paragraph"><block ref="fa7897454f637026faa3e00ccbfec239" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">Tenga en cuenta que los otros usuarios de BlueXP no verán este mismo estado de registro de soporte si no han asociado una cuenta del sitio de soporte de NetApp con su inicio de sesión de BlueXP. Sin embargo, eso no significa que tu cuenta de BlueXP no esté registrada para el soporte técnico. Siempre y cuando un usuario de la cuenta haya seguido estos pasos, su cuenta se ha registrado.</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente existente pero no cuenta NSS</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">Si eres un cliente existente de NetApp con licencias y números de serie existentes, pero _no_ NSS, deberás crear una cuenta NSS y asociarla al inicio de sesión de BlueXP.</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Formulario de registro de usuarios del sitio de soporte de NetApp</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">Cree una cuenta del sitio de soporte de NetApp completando el<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">Asegúrese de seleccionar el nivel de usuario adecuado, que normalmente es *Cliente/Usuario final de NetApp*.</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">Asegúrese de copiar el número de serie de la cuenta BlueXP (960xxxx) utilizado anteriormente para el campo de número de serie. Esto agilizará el procesamiento de la cuenta.</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">Asocia tu nueva cuenta de NSS con tu inicio de sesión de BlueXP completando los pasos que se indican en <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Totalmente nuevo en NetApp</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Si es totalmente nuevo en NetApp y no tiene una cuenta de NSS, siga cada paso que se indica a continuación.</block>
+  <block id="f5d7029ed18f998c0a9d780b2554e538" category="list-text">Busque el número de serie de su ID de cuenta en la página Recursos de soporte.</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Una captura de pantalla del menú Ayuda en el que Soporte es la primera opción de la lista</block>
+  <block id="55adf589d087b17fca134b34f65498ed" category="paragraph"><block ref="55adf589d087b17fca134b34f65498ed" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sitio de registro de soporte de NetApp</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Navegue<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> y seleccione *No soy un Cliente de NetApp Registrado*.</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Rellene los campos obligatorios (aquellos con asteriscos rojos).</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">En el campo *línea de productos*, seleccione *Cloud Manager* y, a continuación, seleccione el proveedor de facturación correspondiente.</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">Copie el número de serie de su cuenta desde el paso 2 anterior, complete la comprobación de seguridad y confirme que ha leído la Política de privacidad de datos global de NetApp.</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">Se envía inmediatamente un correo electrónico al buzón de correo para finalizar esta transacción segura. Asegúrese de comprobar sus carpetas de spam si el correo electrónico de validación no llega en pocos minutos.</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">Confirme la acción desde el correo electrónico.</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">Confirmar envía su solicitud a NetApp y recomienda que cree una cuenta en la página de soporte de NetApp.</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Asegúrese de copiar el número de serie de la cuenta (960xxxx) utilizado anteriormente para el campo de número de serie. Esto agilizará el procesamiento de la cuenta.</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp debería ponerse en contacto con usted durante este proceso. Este es un ejercicio de incorporación puntual para nuevos usuarios.</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Una vez que tengas tu cuenta en el sitio de soporte de NetApp, asocia la cuenta con el inicio de sesión de BlueXP completando los pasos que se muestran en <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
+  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory para AWS es una potente plataforma de gestión de ciclo de vida diseñada para ayudarte a optimizar tus cargas de trabajo con Amazon FSx para NetApp ONTAP. Examine la documentación por tipo de carga de trabajo o utilice la barra de búsqueda para buscar contenido en cualquier parte de los documentos de Workload Factory.</block>
+  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">Documentación de BlueXP Workload Factory para AWS</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todo</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuración y administración</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
+  <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Reducida</block>
+  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">Aprenda a usar Workload Factory, administrar credenciales y usar CodeBox para la automatización.</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX para ONTAP de NetApp</block>
+  <block id="b02ec41574109950953b880723bdaffc" category="sidebar">Pon en marcha y gestiona los sistemas de archivos FSx para ONTAP para utilizar todas las funcionalidades de ONTAP como un servicio gestionado de AWS nativo.</block>
+  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Administre mediante programación los recursos de Workload Factory.</block>
+  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">Cargas de trabajo de base de datos</block>
+  <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">Ponga en marcha bases de datos de manera integral con las prácticas recomendadas integradas para la optimización con sistemas de archivos FSx para ONTAP como almacenes de datos externos.</block>
+  <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
+  <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">Integra datos de tus sistemas de archivos FSx para ONTAP con tus plataformas MLOps y modelos de base de GenAI para crear bots conversacionales funcionales.</block>
+  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">Cargas de trabajo de</block>
+  <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">Optimiza las migraciones desde entornos de vSphere on-premises a VMware Cloud on AWS e implementa sistemas de archivos personalizados FSx para ONTAP como almacenes de datos externos.</block>
+  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Toda la documentación de Workload Factory</block>
+</blocks>
