@@ -125,24 +125,23 @@
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">Asegúrese de copiar el número de serie de la cuenta (960xxxx) utilizado anteriormente para el campo de número de serie. Esto agilizará el procesamiento de la cuenta.</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">NetApp debería ponerse en contacto con usted durante este proceso. Este es un ejercicio de incorporación puntual para nuevos usuarios.</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">Una vez que tengas tu cuenta en el sitio de soporte de NetApp, asocia la cuenta con el inicio de sesión de BlueXP completando los pasos que se muestran en <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>.</block>
-  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory para AWS es una potente plataforma de gestión de ciclo de vida diseñada para ayudarte a optimizar tus cargas de trabajo con Amazon FSx para NetApp ONTAP. Examine la documentación por tipo de carga de trabajo o utilice la barra de búsqueda para buscar contenido en cualquier parte de los documentos de Workload Factory.</block>
-  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">Documentación de BlueXP Workload Factory para AWS</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Todo</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">Configuración y administración</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">Cargas de trabajo</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">Reducida</block>
-  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">Aprenda a usar Workload Factory, administrar credenciales y usar CodeBox para la automatización.</block>
-  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX para ONTAP de NetApp</block>
   <block id="b02ec41574109950953b880723bdaffc" category="sidebar">Pon en marcha y gestiona los sistemas de archivos FSx para ONTAP para utilizar todas las funcionalidades de ONTAP como un servicio gestionado de AWS nativo.</block>
-  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">Administre mediante programación los recursos de Workload Factory.</block>
-  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">Cargas de trabajo de base de datos</block>
   <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">Ponga en marcha bases de datos de manera integral con las prácticas recomendadas integradas para la optimización con sistemas de archivos FSx para ONTAP como almacenes de datos externos.</block>
   <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">Integra datos de tus sistemas de archivos FSx para ONTAP con tus plataformas MLOps y modelos de base de GenAI para crear bots conversacionales funcionales.</block>
-  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">Cargas de trabajo de</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">Optimiza las migraciones desde entornos de vSphere on-premises a VMware Cloud on AWS e implementa sistemas de archivos personalizados FSx para ONTAP como almacenes de datos externos.</block>
-  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">Toda la documentación de Workload Factory</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">Notas de la versión</block>
-  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">Descubra las novedades de Workload Factory.</block>
+  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">El centro de cargas de trabajo de BlueXP  es una potente plataforma de gestión del ciclo de vida diseñada para ayudarte a optimizar tus cargas de trabajo mediante Amazon FSx for NetApp ONTAP. Examine la documentación por tipo de carga de trabajo o utilice la barra de búsqueda para buscar contenido en cualquier parte de los documentos de fábrica de cargas de trabajo.</block>
+  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">Documentación de fábrica de cargas de trabajo de BlueXP </block>
+  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">Aprenda a usar la fábrica de cargas de trabajo, administrar credenciales y usar CodeBox para la automatización.</block>
+  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">Descubra las novedades en toda la fábrica de cargas de trabajo.</block>
+  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">Administre mediante programación los recursos de fábrica de cargas de trabajo.</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">Oracle</block>
+  <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
+  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">Toda la documentación de la fábrica de cargas de trabajo</block>
 </blocks>
