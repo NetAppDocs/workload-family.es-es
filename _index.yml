@@ -26,13 +26,13 @@ product-family:
   tiles:
   - title: Configuración y administración
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    url: "../workload-setup-admin/index.html"
     summary: Aprenda a usar la fábrica de cargas de trabajo, administrar credenciales
       y usar CodeBox para la automatización.
     tags: all,admin
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    url: "../workload-relnotes/whats-new.html"
     summary: Descubra las novedades en toda la fábrica de cargas de trabajo.
     tags: all
   - title: API
@@ -43,34 +43,34 @@ product-family:
     tags: all,api
   - title: Constructores
     icon: "./media/icon-builders.png"
-    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    url: "../workload-builders/index.html"
     summary: Simplifique el consumo de versiones de software y el acceso permitiendo
       la integración de clones instantáneos con sistemas de control de versiones y
       flujos de CI/CD, lo que ahorra tiempo y recursos.
     tags: all,workload
   - title: Oracle
     icon: "./media/icon-database.png"
-    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    url: "../workload-databases/index.html"
     summary: Ponga en marcha bases de datos de manera integral con las prácticas recomendadas
       integradas para la optimización con sistemas de archivos FSx para ONTAP como
       almacenes de datos externos.
     tags: all,workload
   - title: GenAI
     icon: "./media/icon-ai.png"
-    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    url: "../workload-genai/index.html"
     summary: Integra datos de tus sistemas de archivos FSx para ONTAP con tus plataformas
       MLOps y modelos de base de GenAI para crear bots conversacionales funcionales.
     tags: all,workload
   - title: Reducida
     icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    url: "../workload-fsx-ontap/index.html"
     summary: Pon en marcha y gestiona los sistemas de archivos FSx para ONTAP para
       utilizar todas las funcionalidades de ONTAP como un servicio gestionado de AWS
       nativo.
     tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
-    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    url: "../workload-vmware/index.html"
     summary: Optimiza las migraciones desde entornos de vSphere on-premises a VMware
       Cloud on AWS e implementa sistemas de archivos personalizados FSx para ONTAP
       como almacenes de datos externos.
