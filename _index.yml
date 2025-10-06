@@ -1,16 +1,16 @@
 ---
 product-family:
-  title: Documentación de fábrica de cargas de trabajo de BlueXP 
-  lead: El centro de cargas de trabajo de BlueXP  es una potente plataforma de gestión
-    del ciclo de vida diseñada para ayudarte a optimizar tus cargas de trabajo mediante
-    Amazon FSx for NetApp ONTAP. Examine la documentación por tipo de carga de trabajo
-    o utilice la barra de búsqueda para buscar contenido en cualquier parte de los
-    documentos de fábrica de cargas de trabajo.
-  summary: El centro de cargas de trabajo de BlueXP  es una potente plataforma de
-    gestión del ciclo de vida diseñada para ayudarte a optimizar tus cargas de trabajo
-    mediante Amazon FSx for NetApp ONTAP. Examine la documentación por tipo de carga
-    de trabajo o utilice la barra de búsqueda para buscar contenido en cualquier parte
-    de los documentos de fábrica de cargas de trabajo.
+  title: Documentación de NetApp Workload Factory
+  lead: NetApp Workload Factory es una potente plataforma de gestión del ciclo de
+    vida diseñada para ayudarlo a optimizar sus cargas de trabajo utilizando Amazon
+    FSx for NetApp ONTAP.  Explore la documentación por tipo de carga de trabajo o
+    utilice la barra de búsqueda para encontrar contenido en cualquier parte de los
+    documentos de la fábrica de cargas de trabajo.
+  summary: NetApp Workload Factory es una potente plataforma de gestión del ciclo
+    de vida diseñada para ayudarlo a optimizar sus cargas de trabajo utilizando Amazon
+    FSx for NetApp ONTAP.  Explore la documentación por tipo de carga de trabajo o
+    utilice la barra de búsqueda para encontrar contenido en cualquier parte de los
+    documentos de la fábrica de cargas de trabajo.
   sidebarlinks:
   - title: Todo
     tags: all
@@ -27,19 +27,18 @@ product-family:
   - title: Configuración y administración
     icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
-    summary: Aprenda a usar la fábrica de cargas de trabajo, administrar credenciales
-      y usar CodeBox para la automatización.
+    summary: Aprenda cómo comenzar a utilizar Workload Factory, administrar credenciales
+      y utilizar Codebox para la automatización.
     tags: all,admin
   - title: Notas de la versión
     icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
-    summary: Descubra las novedades en toda la fábrica de cargas de trabajo.
+    summary: Descubra las novedades en todo Workload Factory.
     tags: all
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: Administre mediante programación los recursos de fábrica de cargas de
-      trabajo.
+    summary: Administre programáticamente los recursos de Workload Factory.
     tags: all,api
   - title: Constructores
     icon: "./media/icon-builders.png"
