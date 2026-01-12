@@ -42,10 +42,9 @@ product-family:
     tags: all,api
   - title: EDA
     icon: "./media/icon-builders.png"
-    url: "../workload-builders/index.html"
-    summary: Optimice FSx para ONTAP en múltiples sistemas de archivos para aumentar
-      el rendimiento y reducir los costos operativos mediante la gestión automatizada
-      de parámetros de almacenamiento.
+    url: "../workload-eda/index.html"
+    summary: Optimice el rendimiento y los costos de FSx para ONTAP en múltiples sistemas
+      de archivos con administración de almacenamiento automatizada.
     tags: all,workload
   - title: Oracle
     icon: "./media/icon-database.png"
