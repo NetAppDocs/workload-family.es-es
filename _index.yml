@@ -53,12 +53,6 @@ product-family:
       integradas para la optimización con sistemas de archivos FSx para ONTAP como
       almacenes de datos externos.
     tags: all,workload
-  - title: GenAI
-    icon: "./media/icon-ai.png"
-    url: "../workload-genai/index.html"
-    summary: Integra datos de tus sistemas de archivos FSx para ONTAP con tus plataformas
-      MLOps y modelos de base de GenAI para crear bots conversacionales funcionales.
-    tags: all,workload
   - title: Reducida
     icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
