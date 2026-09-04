@@ -25,43 +25,36 @@ product-family:
     tags: storage
   tiles:
   - title: Configuración y administración
-    icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
     summary: Aprenda cómo comenzar a utilizar Workload Factory, administrar credenciales
       y utilizar Codebox para la automatización.
     tags: all,admin
   - title: Notas de la versión
-    icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
     summary: Descubra las novedades en todo Workload Factory.
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: Administre programáticamente los recursos de Workload Factory.
     tags: all,api
   - title: EDA
-    icon: "./media/icon-builders.png"
     url: "../workload-eda/index.html"
     summary: Optimice el rendimiento y los costos de FSx para ONTAP en múltiples sistemas
       de archivos con administración de almacenamiento automatizada.
     tags: all,workload
   - title: Oracle
-    icon: "./media/icon-database.png"
     url: "../workload-databases/index.html"
     summary: Ponga en marcha bases de datos de manera integral con las prácticas recomendadas
       integradas para la optimización con sistemas de archivos FSx para ONTAP como
       almacenes de datos externos.
     tags: all,workload
   - title: Reducida
-    icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
     summary: Pon en marcha y gestiona los sistemas de archivos FSx para ONTAP para
       utilizar todas las funcionalidades de ONTAP como un servicio gestionado de AWS
       nativo.
     tags: all,storage
   - title: VMware
-    icon: "./media/icon-vmware.png"
     url: "../workload-vmware/index.html"
     summary: Optimiza las migraciones desde entornos de vSphere on-premises a VMware
       Cloud on AWS e implementa sistemas de archivos personalizados FSx para ONTAP
